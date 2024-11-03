@@ -23,4 +23,4 @@ echo "eula=true" > eula.txt
 echo "online-mode=false" >> server.properties
 
 # Launch the Minecraft server
-java -Xmx30G -Xms1G -jar server.jar nogui
+java -Xmx10G -Xms1G -jar server.jar nogui
